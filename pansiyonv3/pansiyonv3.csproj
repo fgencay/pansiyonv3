@@ -144,6 +144,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="Resources\Ekran görüntüsü 2024-08-21 122030.png" />
   </ItemGroup>
   <ItemGroup>
@@ -178,6 +179,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\B41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
